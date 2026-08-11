@@ -59,8 +59,7 @@ The platform centralizes customer data and provides tools for managing **leads, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/CarlEdwin15/CRM_System.git
-cd CRM_System
+git clone https://github.com/vncmrvnjnlls/crm-sys.git
 ```
 
 ### 2. Backend Setup
@@ -101,7 +100,7 @@ npm install
 Create a `.env` file inside `frontend_crm`:
 
 ```env
-VITE_API_URL=http://localhost:5000
+VITE_API_URL=http://backend_IP:5000
 ```
 
 Run the frontend:
