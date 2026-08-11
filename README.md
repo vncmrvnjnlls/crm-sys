@@ -47,6 +47,7 @@ The platform centralizes customer data and provides tools for managing **leads, 
 
 | Role          | Access                                                              |
 | ------------- | ------------------------------------------------------------------- |
+| Super Admin   | Full access — users, teams, leads, customers, deals, tasks, reports |
 | Admin         | Full access — users, teams, leads, customers, deals, tasks, reports |
 | Sales Manager | Team overview, leads, customers, deals, tasks                       |
 | Sales Agent   | Leads, customers, deals, tasks (team required)                      |
